@@ -1,0 +1,22 @@
+Student ID : 20223111
+Name : Gahyun Lee
+Connection: Host IP 127.0.0.1, Port 33464, socket 4
+GET /biga.html HTTP/1.1
+User-Agent: Wget/1.20.3 (linux-gnu)
+7 headers
+finish 10904 10904
+Connection: Host IP 127.0.0.1, Port 33470, socket 4
+GET /a.html HTTP/1.1
+User-Agent: Wget/1.20.3 (linux-gnu)
+7 headers
+finish 127 127
+Connection: Host IP 127.0.0.1, Port 33486, socket 4
+GET /b.html HTTP/1.1
+User-Agent: Wget/1.20.3 (linux-gnu)
+7 headers
+finish 127 127
+Connection: Host IP 127.0.0.1, Port 33496, socket 4
+GET /palladio.jpg HTTP/1.1
+User-Agent: Wget/1.20.3 (linux-gnu)
+7 headers
+finish 142828 142828
